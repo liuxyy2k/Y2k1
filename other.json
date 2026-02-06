@@ -1,5 +1,5 @@
 {
-    "spider": "./custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33",
+    "spider": "./custom_spider.jar",
     "lives": [
         {
             "name": "直播",
@@ -636,5 +636,6 @@
     ]
 
 }
+
 
 
